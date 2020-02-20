@@ -11,6 +11,7 @@
   - HC-05 蓝牙模块；
   - 其他零散部件。
 - 版本迭代说明
+  - 版本发布页面地址： https://github.com/QingchenWait/ShipDominator/releases
   - 本计划分为两个阶段。<br/>
   第一个阶段，新版本名以“控船术”为前缀。主要目标为利用自行在 Amazon 购买的 Arduino 入门开发套件中的零件(包括 Arduino UNO 开发板、低功率DC马达与红外模块），实现与 Group Design 目标类似的功能。<br/>
   第二个阶段，新版本名以“驭船术”为前缀。这一阶段将在所需零件全部到手后开启，进行针对 Group Design 设计需求的开发。<br/>

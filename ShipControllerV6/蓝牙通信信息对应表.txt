@@ -1,0 +1,10 @@
+控船术 V6 蓝牙通信信息对应表
+
+Power On按钮：P - 开启马达
+Power Off按钮：O - 关闭马达
+Left按钮：L - 左转3秒
+Right按钮：R - 右转3秒
+Speed Up按钮：W - 提高转速
+Speed Down按钮： S- 降低转速
+Turning L按钮：按下A - 持续左转；松开T - 停止左转
+Turning R按钮：按下D - 持续右转；松开T - 停止左转

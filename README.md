@@ -1,5 +1,6 @@
 # 驭船术 | ShipDominator
     曼大 MSc 机械工程学位中的 Group Design 项目。目标是为垃圾收集船编写远程控制程序。
+    最终交付版本（V7）已经发布：https://github.com/QingchenWait/ShipDominator/releases/tag/V7-Final
 - 预期目标 <br/>
 使用Audrino作为控制中枢，通过蓝牙模块进行遥控，使垃圾收集船实现各类预期动作。<br/>
 （例如：启动、停止；左转、右转；加速、减速......）
